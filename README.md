@@ -3,25 +3,15 @@
 ## Overview
 This project contains a numerical model simulation for decoupled channel-levee evolution using MATLAB. The model employs  and visualize results.
 
-!Figure
+!Alt flowchart
 
 ## Features
 - Solves differential equations using finite difference methods
 - Visualizes results with MATLAB plotting functions
 - Configurable parameters for different simulation scenarios
 
-## Requirements
+## Prerequisites
 - MATLAB R2022b or higher
-
-## Installation
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/numerical-model-matlab.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd numerical-model-matlab
-    ```
 
 ## Usage
 1. Configure the simulation parameters in `config.m`.
