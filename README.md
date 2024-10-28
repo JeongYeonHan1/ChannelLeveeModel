@@ -3,7 +3,7 @@
 ## Overview
 This project contains a numerical model simulation for decoupled channel-levee evolution using MATLAB. The model employs  and visualize results.
 
-!Schematic Image
+!Figure2
 
 ## Features
 - Solves differential equations using finite difference methods
