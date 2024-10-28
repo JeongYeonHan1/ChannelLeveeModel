@@ -1,4 +1,0 @@
-% Load and display the image
-img = imread('images/figure2.jpg');
-imshow(img);
-title('Schematic Image');
