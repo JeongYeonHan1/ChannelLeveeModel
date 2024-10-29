@@ -7,8 +7,8 @@ This numerical model is a one-dimensional hydrodynamic and morphodynamic model o
 ![alt text](https://github.com/JeongYeonHan1/ChannelLeveeModel/blob/68a68a2468d6b46b2a1ef74f4b3207c9f007790a/images/Figure2.jpg)
 
 ## Features
-- generate random weekly hydrograph and solve the divided channel method to compute the flooded water surface elevation (Lotter, 1933)
-- identify two flood styles: Front loading and Back loading
+- Generate random weekly hydrograph and solve the divided channel method to compute the flooded water surface elevation (Lotter, 1933)
+- Identify two flood styles: Front loading and Back loading
 - Run advection-settling model (Han and Kim, 2022) for Front loading events and Ponded water model (Nicholas and Walling, 1996) for Back loading events
 - Visualizes results with MATLAB plotting functions
 
